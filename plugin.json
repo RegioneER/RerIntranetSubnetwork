@@ -1,17 +1,17 @@
 {
     "name": "RerIntranetSubnetwork",
-    "description": "Adds a new Subnetwork dimension and report",
-    "version": "4.1.0",
+    "description": "Reports visits from common intranets and custom subnetworks. Adds a new reporting dimension",
+    "version": "4.1.1",
     "theme": false,
     "require": {
         "php": ">=7.3.0",
-        "piwik": ">=4.0.0-b1,<5.0.0-b1"
+        "matomo": ">=4.0.0-b1,<5.0.0-b1"
     },
     "authors": [
         {
             "name": "Regione Emilia-Romagna",
             "homepage": "https://github.com/RegioneER",
-	    "email": "webmaster@regione.emilia-romagna.it"
+	        "email": "webmaster@regione.emilia-romagna.it"
         }
     ],
     "support": {
@@ -20,5 +20,5 @@
     },
     "homepage": "https://github.com/RegioneER/RerIntranetSubnetwork",
     "license": "GPL-3.0+",
-    "keywords": [ "reports", "intranet", "subnetworks" ]
+    "keywords": [ "report", "intranet", "subnetwork", "visits" ]
 }
