@@ -25,9 +25,13 @@ You can ask for support and your feedback is appreciated at plugin's [issue cent
 
 ## Changelog
 
-### 4.1.1
+### 4.1.2
 
 Added German and Ukrainian translations
+
+### 4.1.1
+
+Added Turkish translation
 
 ### 4.1.0
 
