@@ -1,4 +1,4 @@
-# Matomo RerIntranetSubnetwork Plugin
+# Matomo 3.x RerIntranetSubnetwork Plugin 
 
 ## Description
 

@@ -1,5 +1,5 @@
 ## FAQ
 
-__My question?__
+__How Long 3.x branch will be supported?__
 
-My answer
+3.x Matomo support for this plugin is going to cease during 2022.
