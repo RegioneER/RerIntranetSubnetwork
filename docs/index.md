@@ -4,20 +4,25 @@
 Just install by Matomo's Marketplace, or grab latest code from the Github repository.
 
 ### Translations
-Community is helping [translate on Weblate](https://hosted.weblate.org/projects/matomo/communityplugin-rerintranetsubnetwork/), list of available languages:
+Our community is helping [translating on Weblate](https://hosted.weblate.org/projects/matomo/communityplugin-rerintranetsubnetwork/), this is the list of available languages:
 
 - Albanian
-- Brazilian
+- Bulgarian
 - Catalan
 - English
+- French
 - German
 - Greek
-- Japanese
+- Indonesian
 - Italian
-- French
-- Norwegian Bokmål
+- Japanese
+- Korean
+- Norwegian Bokmål (50%)
+- Portuguese (Brasil)
 - Turkish
 - Ukrainian
+
+Thank you to all contributors around the world <3
 
 ### License
 This free software is licensed under GNU General Public License v3+
