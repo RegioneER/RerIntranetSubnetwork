@@ -7,4 +7,6 @@ jobs:
     steps:
     - uses: php-actions/phpstan@v3
       with:
+        command: composer install
+        configuration: tests/ci/phpstan.neon
         path: .
