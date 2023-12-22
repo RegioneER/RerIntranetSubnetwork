@@ -1,0 +1,10 @@
+on: [push]
+
+jobs:
+  phpstan:
+    runs-on: ubuntu-latest
+    name: PHPStan (php-actions)
+    steps:
+    - uses: php-actions/phpstan@v3
+      with:
+        path: .
