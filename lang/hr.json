@@ -1,1 +1,14 @@
-{}
+{
+    "RerIntranetSubnetwork": {
+        "Description": "Ovaj izvještaj broji posjete s lokalne intranet mreže",
+        "SegmentHelp": "Upiši ime podmreže",
+        "SegmentName": "Segment podmreže",
+        "SettingDefaultDescription": "Mjera, budući da su IPv4 adrese podmreže uključene u 127.x.x.x, 192.x.x.x, 10.x.x.x",
+        "SettingDefaultTitle": "Uključi standardne privatne mreže",
+        "SettingDescription": "Regularni izraz koji uključuje sve IP adrese podmreže",
+        "SettingException": "Mora biti regularni izraz",
+        "SettingTitle": "Regularni izraz podmreže",
+        "SubnetworkName": "Ime podmreže",
+        "Title": "Intranet podmreža"
+    }
+}
