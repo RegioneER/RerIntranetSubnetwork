@@ -1,6 +1,14 @@
 {
     "RerIntranetSubnetwork": {
         "Description": "此報表計算來自本地網路的訪問量",
+        "SegmentHelp": "請輸入子網路名稱",
+        "SegmentName": "子網路區隔",
+        "SettingDefaultDescription": "將 127.x.x.x、192.x.x.x、10.x.x.x 範圍內的 IPv4 位址視為子網路來測量",
+        "SettingDefaultTitle": "包含標準的私有網路",
+        "SettingDescription": "一個涵蓋所有子網路 IP 位址的正規表示式",
+        "SettingException": "必須是正規表示式",
+        "SettingTitle": "子網路正規表示式",
+        "SubnetworkName": "子網路名稱",
         "Title": "內部網路子網路"
     }
 }
