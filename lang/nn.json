@@ -1,1 +1,14 @@
-{}
+{
+    "RerIntranetSubnetwork": {
+        "Description": "Denne rapporten tel besøk frå lokalt intranett",
+        "SegmentHelp": "Skriv inn namnet på undernettverket",
+        "SegmentName": "Undernettverkssegment",
+        "SettingDefaultDescription": "Rekn IPv4-adresser i 127.x.x.x, 192.x.x.x og 10.x.x.x som undernettverk",
+        "SettingDefaultTitle": "Inkluder standard private nettverk",
+        "SettingDescription": "Eit regulært uttrykk som inneheld alle IP-adressene til undernettverka",
+        "SettingException": "Må vere eit regulært uttrykk",
+        "SettingTitle": "Regulært uttrykk for undernettverk",
+        "SubnetworkName": "Namn på undernettverk",
+        "Title": "Intranett-undernettverk"
+    }
+}
